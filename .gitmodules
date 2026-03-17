@@ -1,0 +1,9 @@
+[submodule "hatbit-study-spacedevkit-satellite"]
+	path = hatbit-study-spacedevkit-satellite
+	url = https://github.com/Hatbitillucom/hatbit-study-spacedevkit-satellite.git
+[submodule "hatbit-study-spacedevkit-solar-panel"]
+	path = hatbit-study-spacedevkit-solar-panel
+	url = https://github.com/Hatbitillucom/hatbit-study-spacedevkit-solar-panel.git
+[submodule "hatbit-study-mppt-arduino-uno"]
+	path = hatbit-study-mppt-arduino-uno
+	url = https://github.com/Hatbitillucom/hatbit-study-mppt-arduino-uno.git
