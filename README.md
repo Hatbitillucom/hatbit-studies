@@ -27,6 +27,6 @@ You can work directly inside each submodule directory and commit/push to its ori
 
 ## License
 
-Copyright (c) HATBIT Illumination Company. All rights reserved.
+Copyright (c) Hatbitillucom co., Ltd. All rights reserved.
 
 This software is proprietary and confidential. Unauthorized copying, modification, or distribution of this software, in whole or in part, is strictly prohibited.
